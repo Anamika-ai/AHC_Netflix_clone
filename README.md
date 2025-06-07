@@ -1,2 +1,3 @@
 # Netflix-clone
- https://anamika-ai.github.io/project_2/
+#visit the site here https://anamika-ai.github.io/project_2/
+
